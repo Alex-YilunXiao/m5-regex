@@ -8,11 +8,7 @@ import java.util.regex.Pattern;
 
 public class Main {
 
-    /**
-     * The Main method for this assignment.
-     * You can optionally run this to interactively try the three methods.
-     * @param args parameters are unused
-     */
+
     public static void main(String[] args) {
         final Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a string: ");
